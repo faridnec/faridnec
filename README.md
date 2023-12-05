@@ -1,5 +1,5 @@
 ##### I'm Farid from Indonesia 🇮🇩
-![Personal Room]([https://github.com/faridnec/faridnec/blob/main/room.jpg?raw=true](https://github.com/faridnec/faridnec/blob/main/room0.png?raw=true))
+![Personal Room](https://github.com/faridnec/faridnec/blob/main/room0.png?raw=true)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/faridnec)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/muhammad-najmuddin-farid/)
 
