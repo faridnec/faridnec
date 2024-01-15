@@ -1,7 +1,10 @@
-#### I'm Farid from Indonesia 🇮🇩
-![Personal Room](https://github.com/faridnec/faridnec/blob/main/room0.png?raw=true)
+<div align="center">
+  <img src="https://github.com/faridnec/faridnec/blob/main/room0.png?raw=true" alt="Personal Room" width="500px">
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/faridnec)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/muhammad-najmuddin-farid/)
+  <br/>
+
+  ### I'm Farid from Indonesia 🇮🇩
+</div>
 
 <!--
 **faridnec/faridnec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
