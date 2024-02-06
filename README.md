@@ -2,8 +2,7 @@
 
 # Hi 👋, I'm Farid
 
-[![CV](https://img.shields.io/badge/PDF-Resume/CV-red?style=flat-square&logo=adobe-acrobat-reader)](https://drive.google.com/file/d/1mrwsSdEwhPu9dRCIQzJVm_oMEPcPv2tx/view?usp=sharing) [![GitHub](https://img.shields.io/badge/GitHub-faridnec-black?style=flat-square&logo=github)](https://github.com/faridnec) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Najmuddin%20Farid-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muhammad-najmuddin-farid)
-[![Instagram](https://img.shields.io/badge/Instagram-farid.nec-pink?style=flat-square&logo=instagram)](https://www.instagram.com/farid.nec/)
+[![GitHub](https://img.shields.io/badge/GitHub-faridnec-black?style=flat-square&logo=github)](https://github.com/faridnec) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Najmuddin%20Farid-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muhammad-najmuddin-farid) [![Instagram](https://img.shields.io/badge/Instagram-farid.nec-pink?style=flat-square&logo=instagram)](https://www.instagram.com/farid.nec/)
 
 </div>
 
