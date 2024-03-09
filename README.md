@@ -32,7 +32,7 @@ hobby: [bike, badminton, cats, reading, etc]
 </div> -->
 
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,cpp,tensorflow,vscode,git,github,md,bots,powershell,html,css,react,nodejs,linux,postgresql,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,cpp,tensorflow,vscode,git,github,md,bots,powershell,html,css,flask,react,nodejs,linux,postgresql,visualstudio)](https://skillicons.dev)
 
 ## Badges
 <p>I like collecting badges!</p>
