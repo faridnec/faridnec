@@ -2,8 +2,6 @@
 
 # Hi 👋, I'm Farid
 
-[![GitHub](https://img.shields.io/badge/GitHub-faridnec-black?style=flat-square&logo=github)](https://github.com/faridnec)
-
 </div>
 
 
