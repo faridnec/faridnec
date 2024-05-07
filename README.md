@@ -1,11 +1,8 @@
 <div style="text-align: center;">
 
 # Hi 👋, I'm Farid
-
-</div>
-
-
 <hr style="margin-top: 5px; margin-bottom: 20px;">
+
 ```yaml
 # About (yaml)
 keyword: [Machine Learning, AI, Data Science, Web Development]
