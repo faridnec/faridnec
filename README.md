@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Farid
 
-[![GitHub](https://img.shields.io/badge/GitHub-faridnec-black?style=flat-square&logo=github)](https://github.com/faridnec) [![Instagram](https://img.shields.io/badge/Instagram-farid.nec-pink?style=flat-square&logo=instagram)](https://www.instagram.com/farid.nec/)
+[![GitHub](https://img.shields.io/badge/GitHub-faridnec-black?style=flat-square&logo=github)](https://github.com/faridnec)
 
 </div>
 
