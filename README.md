@@ -6,9 +6,6 @@
 
 
 <hr style="margin-top: 5px; margin-bottom: 20px;">
-
-
-## Software Engineer and Researcher
 ```yaml
 # About (yaml)
 keyword: [Machine Learning, AI, Data Science, Web Development]
