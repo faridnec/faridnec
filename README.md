@@ -29,7 +29,7 @@ hobby: [bike, badminton, cats, reading, etc]
 <hr style="margin-top: 5px; margin-bottom: 20px;">
 
 <p align="center" style="margin-bottom: 5px;">
-  &copy; 2024 <b>Muhammad Najmuddin Farid</b>
+  &copy; 2026 <b>Muhammad Najmuddin Farid</b>
 </p>
 
 <p align="center">
